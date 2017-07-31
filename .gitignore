@@ -1,12 +1,9 @@
-changelog.txt
-crash_reporter.exe
-msvcr100.dll
 Packages
-plugin_host.exe
-python3.3.zip
-python33.dll
-subl.exe
-sublime.py
-sublime_plugin.py
-sublime_text.exe
-update_installer.exe
+*.txt
+*.exe
+*.dll
+*.zip
+*.py
+
+Data/Cache/Default/Startup.cache
+Data/Local/Auto Save Session.sublime_session
