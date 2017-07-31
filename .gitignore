@@ -1,9 +1,10 @@
 Packages
+
 *.txt
 *.exe
 *.dll
 *.zip
 *.py
 
-Data/Cache
+Data/Cache/Default/Startup.cache
 Data/Local/Auto Save Session.sublime_session
