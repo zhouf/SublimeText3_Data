@@ -6,5 +6,6 @@
 *.zip
 *.py
 
+/Data/Local
 /Data/Cache/Default/Startup.cache
 /Data/Local/Auto Save Session.sublime_session
