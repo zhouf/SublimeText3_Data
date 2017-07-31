@@ -20,23 +20,51 @@
 			"buffers":
 			[
 			],
-			"build_system": "",
+			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
 			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
 			],
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 0.0,
-				"last_filter": "",
+				"height": 150.0,
+				"last_filter": "list p",
 				"selected_items":
 				[
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"list",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 400.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 258.0,
 				"history":
 				[
 				]
@@ -52,6 +80,14 @@
 			},
 			"file_history":
 			[
+				"/D/Python/work/ex2.py",
+				"/D/Python/work/ex25.py",
+				"/D/Python/work/ex31.py",
+				"/D/Python/work/ex25.pyc",
+				"/D/Python/work/bb.py",
+				"/E/temp/efms0905.sql",
+				"/I/cisco_vnc.txt",
+				"/R/Sublime_Text_3126/.gitignore"
 			],
 			"find":
 			{
@@ -122,12 +158,16 @@
 				]
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 322.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,669,2050,130,2706",
+			"position": "0,2,3,-1,-1,-1,-1,719,174,180,830",
 			"project": "",
 			"replace":
 			{
