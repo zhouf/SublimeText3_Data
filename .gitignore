@@ -5,5 +5,5 @@ Packages
 *.zip
 *.py
 
-Date/Cache
+Data/Cache
 Data/Local/Auto Save Session.sublime_session

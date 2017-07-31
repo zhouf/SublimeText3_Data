@@ -3,10 +3,186 @@
 	[
 	],
 	"last_version": 3126,
-	"last_window_id": 1,
+	"last_window_id": 4,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 429.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 784.0,
+				"last_filter": "ins",
+				"selected_items":
+				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 864.0
+			},
+			"console":
+			{
+				"height": 258.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Python/work/ex2.py",
+				"/D/Python/work/ex25.py",
+				"/D/Python/work/ex31.py",
+				"/D/Python/work/ex25.pyc",
+				"/D/Python/work/bb.py",
+				"/E/temp/efms0905.sql",
+				"/I/cisco_vnc.txt",
+				"/R/Sublime_Text_3126/.gitignore"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 322.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 630.0
 	},
 	"windows":
 	[
@@ -19,6 +195,35 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/Dev/Sublime Text Build 3126 x64/.gitignore",
+					"settings":
+					{
+						"buffer_size": 83,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "vbvb中烟好样的\n",
+					"settings":
+					{
+						"buffer_size": 10,
+						"line_ending": "Windows",
+						"name": "vbvb中烟好样的"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nConvertToUTF8\n-------------\n\n  ConvertToUTF8\n  ==================\n  With this plugin, you can edit and save the files which encodings are not supported by Sublime Text currently, especially for those used by CJK users, such as GB2312, GBK, BIG5, EUC-KR, EUC-JP, etc.\n  \n  Configuration\n  ------------------\n  Please check ConvertToUTF8.sublime-settings file for details. You should save your personal settings in a file named \"ConvertToUTF8.sublime-settings\" under \"User\" folder.\n  \n  * encoding_list: encoding selection list when detection is failed\n  * max_cache_size: maximum encoding cache size, 0 means no cache (default: 100)\n  * max_detect_lines: maximum detection lines, 0 means unlimited (default: 600)\n  * preview_action: converting the file's content to UTF-8 when previewing it (default: false)\n  * default_encoding_on_create: specific the default encoding for newly created file (such as \"GBK\"), empty value means using sublime text's \"default_encoding\" setting (default: '')\n  * convert_on_load: convert the file's content to UTF-8 when it is loaded (default: true)\n  * convert_on_save: convert the file's content from UTF-8 to its original (or specific) encoding when it is saved (default: true)\n  * convert_on_find: convert the text in Find Results view to UTF-8 (default: false)\n  * lazy_reload: save file to a temporary location, and reload it in background when switching to other windows or tabs (default: false)\n  \n  Contact me\n  ------------------\n  Please send me your questions or suggestions: sunlxy (at) yahoo.com or http://weibo.com/seanliang\n  \n  For more information, please visit: https://github.com/seanliang/ConvertToUTF8\n",
+					"settings":
+					{
+						"buffer_size": 1705,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
+					}
+				}
 			],
 			"build_system": "Packages/Python/Python.sublime-build",
 			"build_system_choices":
@@ -43,24 +248,32 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 150.0,
-				"last_filter": "list p",
+				"height": 784.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
 					[
-						"list p",
-						"Package Control: List Packages"
+						"ins",
+						"Package Control: Install Package"
 					],
 					[
 						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
 						"Package Control: Install Package"
+					],
+					[
+						"list p",
+						"Package Control: List Packages"
 					],
 					[
 						"instal",
 						"Package Control: Install Package"
 					]
 				],
-				"width": 400.0
+				"width": 864.0
 			},
 			"console":
 			{
@@ -122,8 +335,99 @@
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/Dev/Sublime Text Build 3126 x64/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 83,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										83,
+										83
+									]
+								],
+								"settings":
+								{
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10,
+										10
+									]
+								],
+								"settings":
+								{
+									"auto_name": "vbvb中烟好样的",
+									"is_init_dirty_state": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1705,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1705,
+										1705
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"is_init_dirty_state": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
 					]
 				}
 			],
