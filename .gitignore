@@ -1,4 +1,4 @@
-Packages
+/Packages
 
 *.txt
 *.exe
@@ -6,5 +6,5 @@ Packages
 *.zip
 *.py
 
-Data/Cache/Default/Startup.cache
-Data/Local/Auto Save Session.sublime_session
+/Data/Cache/Default/Startup.cache
+/Data/Local/Auto Save Session.sublime_session
