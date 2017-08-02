@@ -3,11 +3,11 @@
 	[
 	],
 	"last_version": 3126,
-	"last_window_id": 5,
+	"last_window_id": 7,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 429.0,
+		"new_window_height": 453.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -38,12 +38,20 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 784.0,
-				"last_filter": "ins",
+				"height": 151.0,
+				"last_filter": "reMOV",
 				"selected_items":
 				[
 					[
+						"reMOV",
+						"Package Control: Remove Package"
+					],
+					[
 						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
 						"Package Control: Install Package"
 					],
 					[
@@ -63,7 +71,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 864.0
+				"width": 648.0
 			},
 			"console":
 			{
@@ -182,7 +190,7 @@
 			{
 			}
 		},
-		"new_window_width": 630.0
+		"new_window_width": 634.0
 	},
 	"windows":
 	[
@@ -199,9 +207,18 @@
 					"file": "/D/Dev/Sublime Text Build 3126 x64/.gitignore",
 					"settings":
 					{
-						"buffer_size": 132,
+						"buffer_size": 175,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "https://github.com/zhouf/SublimeText3_Data.git",
+					"settings":
+					{
+						"buffer_size": 46,
+						"line_ending": "Windows",
+						"name": "https://github.com/zhouf/SublimeText3_Data.git"
 					}
 				},
 				{
@@ -341,15 +358,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 132,
+								"buffer_size": 175,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										132,
-										132
+										175,
+										175
 									]
 								],
 								"settings":
@@ -367,6 +384,34 @@
 						},
 						{
 							"buffer": 1,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 46,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										46,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "https://github.com/zhouf/SublimeText3_Data.git",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
 							"semi_transient": false,
 							"settings":
 							{
@@ -437,7 +482,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,719,174,180,830",
+			"position": "0,2,3,-1,-1,-1,-1,719,174,180,830",
 			"project": "",
 			"replace":
 			{
