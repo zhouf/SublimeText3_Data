@@ -6,7 +6,10 @@
 *.zip
 *.py
 
-/Data/Local
+/Data/Cache/Default/*.*
+/Data/Cache/Default/Meta Info Summary.cache
+/Data/Cache/Default/Syntax Summary.cache
+/Data/Local/*.*
 /Data/Cache/Default/Startup.cache
 #/Data/Local/Auto Save Session.sublime_session
 /Data/Packages/User/Package Control.cache/*.*
