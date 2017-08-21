@@ -204,30 +204,39 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Dev/Sublime Text Build 3126 x64/.gitignore",
-					"settings":
-					{
-						"buffer_size": 175,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "https://github.com/zhouf/SublimeText3_Data.git",
-					"settings":
-					{
-						"buffer_size": 46,
-						"line_ending": "Windows",
-						"name": "https://github.com/zhouf/SublimeText3_Data.git"
-					}
-				},
-				{
 					"contents": "vbvb中烟好样的\n",
 					"settings":
 					{
 						"buffer_size": 10,
 						"line_ending": "Windows",
 						"name": "vbvb中烟好样的"
+					}
+				},
+				{
+					"file": "/D/Documents/Tencent Files/10823459/FileRecv/MobileFile/选题数据.xml",
+					"settings":
+					{
+						"buffer_size": 16562,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n\n<选课数据>\n  <xiaozu id=\"0\">\n    <teacher>陈久强</teacher>\n    <title>证件管理系统</title>\n    <member id=\"0\">\n      <name>马闯</name>\n      <id>41411008</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>阿卜杜热西提·如则尼亚孜</name>\n      <id>41411009</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>罗年强</name>\n      <id>41411010</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>杜佳鹏</name>\n      <id>41411030</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>唐子杰</name>\n      <id>41411031</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>严其欢</name>\n      <id>41411050</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"1\">\n    <teacher>陈久强</teacher>\n    <title>证件管理系统</title>\n    <member id=\"0\">\n      <name>卜子祎</name>\n      <id>41411025</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>曹理</name>\n      <id>41423035</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"2\">\n      <name>鲁绪</name>\n      <id>41423078</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>胡择文</name>\n      <id>41424002</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>杨悦</name>\n      <id>41424017</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>谢雅依</name>\n      <id>41424018</id>\n      <classname>金信实验班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"2\">\n    <teacher>陈久强</teacher>\n    <title>证件管理系统</title>\n    <member id=\"0\">\n      <name>王梦茹</name>\n      <id>41411076</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>古丽给娜</name>\n      <id>41411101</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>田鹏举</name>\n      <id>41423032</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>杨密</name>\n      <id>41423091</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>吕佳璐</name>\n      <id>41423095</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>陈琴</name>\n      <id>41423096</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"3\">\n    <teacher>陈久强</teacher>\n    <title>证件管理系统</title>\n    <member id=\"0\">\n      <name>吴明凤</name>\n      <id>41323011</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>张悦</name>\n      <id>41411042</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>陈美邑</name>\n      <id>41423020</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>邹诗芬</name>\n      <id>41423046</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>吴佳</name>\n      <id>41423064</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>蒲涛</name>\n      <id>41426026</id>\n      <classname>电商一班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"4\">\n    <teacher>李瑾坤</teacher>\n    <title>毕业论文管理系统</title>\n    <member id=\"0\">\n      <name>邓娇</name>\n      <id>41310051</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>张凯</name>\n      <id>41410005</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>侯胜辉</name>\n      <id>41410010</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>李宇</name>\n      <id>41410011</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>陈峻逸</name>\n      <id>41410012</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>苗瑞</name>\n      <id>41430027</id>\n      <classname>计科</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"5\">\n    <teacher>李瑾坤</teacher>\n    <title>实训管理系统</title>\n    <member id=\"0\">\n      <name>涂嘉</name>\n      <id>41315313</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>王露</name>\n      <id>41423050</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>朱莎</name>\n      <id>41423051</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>朱双杰</name>\n      <id>41423090</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>黄怡梅</name>\n      <id>41423102</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>张宇晗</name>\n      <id>41423103</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"6\">\n    <teacher>李瑾坤</teacher>\n    <title>实训管理系统</title>\n    <member id=\"0\">\n      <name>刘燕萍</name>\n      <id>41410025</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>张冉</name>\n      <id>41410026</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>邓涛</name>\n      <id>41410039</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>张睿恺</name>\n      <id>41410040</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>高嘉忆</name>\n      <id>41410042</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>李庚</name>\n      <id>41417004</id>\n      <classname>计科</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"7\">\n    <teacher>李瑾坤</teacher>\n    <title>实训管理系统</title>\n    <member id=\"0\">\n      <name>张婷</name>\n      <id>41410018</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>丁鸿</name>\n      <id>41410048</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>胡宝月</name>\n      <id>41410049</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>程琳</name>\n      <id>41410052</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>降初拉姆</name>\n      <id>41410058</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>张靖晗</name>\n      <id>41410045</id>\n      <classname>计科</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"8\">\n    <teacher>李瑾坤</teacher>\n    <title>实训管理系统</title>\n    <member id=\"0\">\n      <name>曾强芮</name>\n      <id>41411051</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>刘海一</name>\n      <id>41411080</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>何仁欢</name>\n      <id>41423022</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>李丹丹</name>\n      <id>41423024</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>雷玉兰</name>\n      <id>41423026</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>王宇</name>\n      <id>41423040</id>\n      <classname>电商一班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"9\">\n    <teacher>李瑾坤</teacher>\n    <title>实训管理系统</title>\n    <member id=\"0\">\n      <name>胥雯欣</name>\n      <id>41423011</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>侯姣连</name>\n      <id>41423023</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>洪鑫鑫</name>\n      <id>41423043</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>杨文丹</name>\n      <id>41423044</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>吴妍频</name>\n      <id>41423048</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>王晔</name>\n      <id>41423049</id>\n      <classname>电商一班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"10\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>教师课程辅助系统</title>\n    <member id=\"0\">\n      <name>朱珣</name>\n      <id>41410004</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>游奕航</name>\n      <id>41410009</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>胡杨昌</name>\n      <id>41410015</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>席煜</name>\n      <id>41410035</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>王玺</name>\n      <id>41410041</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>熊鑫</name>\n      <id>41410043</id>\n      <classname>计科</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"11\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>教师课程辅助系统</title>\n    <member id=\"0\">\n      <name>全涵</name>\n      <id>41410019</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>刘云霞</name>\n      <id>41410020</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>张玉洁</name>\n      <id>41410021</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>王欣叶</name>\n      <id>41410022</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>颜佳妮</name>\n      <id>41410056</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>雷鑫</name>\n      <id>41424021</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"12\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>教师课程辅助系统</title>\n    <member id=\"0\">\n      <name>潘博</name>\n      <id>41408004</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>龚俊楠</name>\n      <id>41410014</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>巩思越</name>\n      <id>41410032</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>刘静涵</name>\n      <id>41423099</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>王金岩</name>\n      <id>41430060</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>刘霞</name>\n      <id>41423061</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"13\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上机票</title>\n    <member id=\"0\">\n      <name>吕宁</name>\n      <id>41410029</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"1\">\n      <name>莫晓娜</name>\n      <id>41410030</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>罗磐</name>\n      <id>41410033</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>罗亚</name>\n      <id>41411068</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>杨熳</name>\n      <id>41423067</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>李苑菡</name>\n      <id>41423074</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"14\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上机票</title>\n    <member id=\"0\">\n      <name>杨璐宁</name>\n      <id>41423001</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>蒋晓澜</name>\n      <id>41423004</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>李虹希</name>\n      <id>41423060</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>吴依蕾</name>\n      <id>41423063</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>陈秋霖</name>\n      <id>41423082</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>唐立可</name>\n      <id>41423029</id>\n      <classname>电商一班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"15\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上机票</title>\n    <member id=\"0\">\n      <name>温彤晖</name>\n      <id>41411085</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>晏东洋</name>\n      <id>41411086</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>顾成斐</name>\n      <id>41423072</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>白欣璐</name>\n      <id>41423076</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>凹俐丝</name>\n      <id>41423077</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>任诗雨</name>\n      <id>41423088</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"16\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上机票</title>\n    <member id=\"0\">\n      <name>潘豪</name>\n      <id>41406086</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"1\">\n      <name>吴蕊池</name>\n      <id>41410050</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"2\">\n      <name>陈钊扬</name>\n      <id>41411005</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"3\">\n      <name>李彦瑾</name>\n      <id>41411046</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"4\">\n      <name>穆仁文</name>\n      <id>41411052</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"5\">\n      <name>郑露</name>\n      <id>41432012</id>\n      <classname>金信实验班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"17\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>赵晓萌</name>\n      <id>41402044</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>谭野</name>\n      <id>41410001</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"2\">\n      <name>况仁枭</name>\n      <id>41410006</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"3\">\n      <name>刘忠佩</name>\n      <id>41410008</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"4\">\n      <name>何界町</name>\n      <id>41410031</id>\n      <classname>计科</classname>\n    </member>\n    <member id=\"5\">\n      <name>卜丹妮</name>\n      <id>41423073</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"18\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>曾锐</name>\n      <id>41411017</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>路璐</name>\n      <id>41411018</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>盛敏</name>\n      <id>41411022</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>谈亚萍</name>\n      <id>41411024</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>陈亭如</name>\n      <id>41411038</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>梁辰</name>\n      <id>41411100</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"19\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>范薇</name>\n      <id>41411065</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>李俊瑶</name>\n      <id>41411066</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>李锶怡</name>\n      <id>41411071</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"3\">\n      <name>夏胜蓝</name>\n      <id>41411075</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"4\">\n      <name>付童童</name>\n      <id>41411077</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>杨珩琪</name>\n      <id>41411089</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"20\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>程硕</name>\n      <id>41423034</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>王星宇</name>\n      <id>41423031</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>林佑褰</name>\n      <id>41423037</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>林佑</name>\n      <id>41423037</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>余鑫</name>\n      <id>41423057</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>向源培</name>\n      <id>41423079</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"21\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>屈山</name>\n      <id>41411001</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>陈桐</name>\n      <id>41423054</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>平措西热</name>\n      <id>41423055</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>姜龙</name>\n      <id>41423083</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>桂俊杰</name>\n      <id>41424003</id>\n      <classname>电商二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>旦增曲珍</name>\n      <id>41423075</id>\n      <classname>电商二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"22\">\n    <teacher>谢志龙，陈斌</teacher>\n    <title>网上影院</title>\n    <member id=\"0\">\n      <name>贾阳阳</name>\n      <id>41411028</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>陈家帆</name>\n      <id>41411059</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>陈遨</name>\n      <id>41411060</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>曾恒崧</name>\n      <id>41432007</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>邹林峰</name>\n      <id>41432008</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>付俊男</name>\n      <id>41432033</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"23\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>张思驰</name>\n      <id>41411004</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>沈嘉程</name>\n      <id>41411006</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>魏川杰</name>\n      <id>41411034</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>刘月</name>\n      <id>41411039</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>魏琦</name>\n      <id>41423028</id>\n      <classname>电商一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>张薇</name>\n      <id>41411014</id>\n      <classname>信管一班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"24\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>李容庚</name>\n      <id>41411003</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>熊待峰</name>\n      <id>41411032</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>田春晓</name>\n      <id>41411043</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"3\">\n      <name>孙妍</name>\n      <id>41411045</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"4\">\n      <name>王珣</name>\n      <id>41411049</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"5\">\n      <name>吕进</name>\n      <id>41411078</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"25\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>缪仲凯</name>\n      <id>41310004</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"1\">\n      <name>李裕波</name>\n      <id>41411011</id>\n      <classname>信管一班</classname>\n    </member>\n    <member id=\"2\">\n      <name>颜涛</name>\n      <id>41411055</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>窦倩</name>\n      <id>41411094</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>李明霞</name>\n      <id>41411095</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>胡俪潇</name>\n      <id>41411096</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"26\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>陈秋伶</name>\n      <id>41411067</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"1\">\n      <name>徐梦婷</name>\n      <id>41411069</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>李贵利</name>\n      <id>41411070</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"3\">\n      <name>唐小淋</name>\n      <id>41411072</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"4\">\n      <name>王维婷</name>\n      <id>41411093</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"5\">\n      <name>高志旭</name>\n      <id>41411099</id>\n      <classname>信管二班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"27\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>朱昱成</name>\n      <id>41408035</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"1\">\n      <name>周柱君</name>\n      <id>41411058</id>\n      <classname>信管二班</classname>\n    </member>\n    <member id=\"2\">\n      <name>傅梦欣</name>\n      <id>41411091</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"3\">\n      <name>邹锦岸</name>\n      <id>41412040</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"4\">\n      <name>余苏朋</name>\n      <id>41413001</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"5\">\n      <name>黄晓</name>\n      <id>41423068</id>\n      <classname>金信实验班</classname>\n    </member>\n  </xiaozu>\n  <xiaozu id=\"28\">\n    <teacher>周峰</teacher>\n    <title>在线教学辅助系统</title>\n    <member id=\"0\">\n      <name>姚丹</name>\n      <id>41411015</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"1\">\n      <name>王瑞铃</name>\n      <id>41423019</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"2\">\n      <name>叶莉</name>\n      <id>41423021</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"3\">\n      <name>余思诚</name>\n      <id>41423038</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"4\">\n      <name>凌梦</name>\n      <id>41423039</id>\n      <classname>金信实验班</classname>\n    </member>\n    <member id=\"5\">\n      <name>曲梦圆</name>\n      <id>41427045</id>\n      <classname>金信实验班</classname>\n    </member>\n  </xiaozu>\n</选课数据>\n",
+					"settings":
+					{
+						"buffer_size": 22419,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/Dev/gowork/first.go",
+					"settings":
+					{
+						"buffer_size": 56,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "first.go"
 					}
 				}
 			],
@@ -307,6 +316,19 @@
 			},
 			"file_history":
 			[
+				"/D/Dev/Sublime Text Build 3126 x64/.gitignore",
+				"/D/Temp/选题数据.xml",
+				"/D/Documents/Tencent Files/10823459/FileRecv/MobileFile/选题数据(1).xml",
+				"/D/Python27/s2.py",
+				"/C/Users/Leo/.jupyter/jupyter_notebook_config.py",
+				"/C/Users/Leo/.jupyter/jupyter_notebook_config.json",
+				"/D/Python27/Calculator.py",
+				"/D/Python27/work/p1.py",
+				"/D/Python27/work/fix.py",
+				"/D/Temp/build.xml",
+				"/D/eclipse-jee-neon-R-win32-x86_64/workspace/study/build.xml",
+				"/D/eclipse-jee-neon-R-win32-x86_64/workspace/itedu/WebRoot/WEB-INF/urlrewrite.xml",
+				"/D/eclipse-jee-neon-R-win32-x86_64/workspace/itedu/WebRoot/WEB-INF/web.xml",
 				"/D/Python/work/ex2.py",
 				"/D/Python/work/ex25.py",
 				"/D/Python/work/ex31.py",
@@ -318,7 +340,7 @@
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -332,6 +354,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"dir"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -349,69 +372,11 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Dev/Sublime Text Build 3126 x64/.gitignore",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 175,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										175,
-										175
-									]
-								],
-								"settings":
-								{
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 46,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										46,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "https://github.com/zhouf/SublimeText3_Data.git",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
 							"semi_transient": false,
 							"settings":
 							{
@@ -438,13 +403,99 @@
 							},
 							"stack_index": 1,
 							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/Documents/Tencent Files/10823459/FileRecv/MobileFile/选题数据.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 16562,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										38,
+										38
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 22419,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19674,
+										19674
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1464.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/Dev/gowork/first.go",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 56,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										56,
+										56
+									]
+								],
+								"settings":
+								{
+									"auto_name": "first.go",
+									"syntax": "Packages/Go/Go.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
 						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -482,11 +533,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,719,174,180,830",
+			"position": "0,0,1,-1,-1,-1,-1,719,174,180,830",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
