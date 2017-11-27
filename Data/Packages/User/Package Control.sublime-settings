@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"GoSublime",
 		"IMESupport",
 		"Package Control"
